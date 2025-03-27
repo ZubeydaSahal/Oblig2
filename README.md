@@ -30,6 +30,10 @@ Hvordan jeg kjørte koden:
  Oppgave 4: Testing i mininet
 
  filene jeg brukte:
+   - simpletopo.py
+   - simpe-webseerver.py
+   - index.html
+   - client.py
 
 i denne oppgaven kjører jeg en server og web klient ved hjlep av Mininet. la til bilde 
 
