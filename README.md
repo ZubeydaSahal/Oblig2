@@ -29,7 +29,21 @@ Hvordan jeg kjørte koden:
 
  Oppgave 4: Testing i mininet
 
+i denne oppgaven kjører jeg en server og web klient ved hjlep av Mininet. la til bilde 
+
+
  
+Hvordan jeg kjørte koden:
+  -sudo python3 simpletopo.py
+  - xterm h1 h3 r2
+  - sudo python3 webserver.py
+  - 
+
+
+
+
+  
+
 
 
 
